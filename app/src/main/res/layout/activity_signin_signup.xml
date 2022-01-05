@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".signin_signup">
+
+    <RelativeLayout
+        android:layout_width="260dp"
+        android:layout_height="260dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="72dp"
+        android:layout_marginEnd="72dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/sili" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="220dp"
+        android:layout_height="63dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/poppins_medium"
+            android:lineHeight="32dp"
+            android:text="Create or signin into account"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="22sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="230dp"
+        android:layout_height="71dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/poppins_semibold"
+            android:lineHeight="24dp"
+            android:text="Create a new free account or sign in into an existing account"
+            android:textAlignment="center"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="50dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="40dp"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="140dp"
+            android:layout_height="50dp"
+            android:layout_gravity="left"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="30dp">
+
+            <Button
+                android:id="@+id/signup"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_primary"
+                android:fontFamily="@font/poppins_medium"
+                android:text="Sign up"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="140dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="30dp">
+
+            <Button
+                android:id="@+id/sigin"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_secondary"
+                android:fontFamily="@font/poppins_medium"
+                android:text="Log in"
+                android:textAllCaps="false"
+                android:textColor="@color/pal3"
+                android:textSize="16sp"
+                app:backgroundTint="@null" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>
