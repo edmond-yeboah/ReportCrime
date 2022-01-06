@@ -43,10 +43,10 @@
         android:orientation="vertical">
 
         <com.google.android.material.textfield.TextInputLayout
-            android:id="@+id/lemail"
+            android:id="@+id/email"
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="327dp"
-            android:layout_height="50dp"
+            android:layout_height="60dp"
             android:layout_marginTop="35dp"
             android:fontFamily="@font/poppins_regular"
             app:boxCornerRadiusBottomEnd="12dp"
@@ -67,10 +67,10 @@
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.textfield.TextInputLayout
-            android:id="@+id/lpassword"
+            android:id="@+id/password"
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="327dp"
-            android:layout_height="50dp"
+            android:layout_height="60dp"
             android:layout_marginTop="15dp"
             app:boxCornerRadiusBottomEnd="12dp"
             app:boxCornerRadiusBottomStart="12dp"
@@ -113,17 +113,18 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="17dp"
+                android:layout_height="20dp"
                 android:fontFamily="@font/poppins_regular"
                 android:text="Don't have an account?"
-                android:textSize="12sp" />
+                android:textSize="14sp" />
             <TextView
+                android:id="@+id/tosignup"
                 android:layout_width="wrap_content"
-                android:layout_height="17dp"
+                android:layout_height="20dp"
                 android:textColor="@color/pal3"
                 android:fontFamily="@font/poppins_regular"
                 android:text=" Signup!"
-                android:textSize="12sp" />
+                android:textSize="14sp" />
 
         </LinearLayout>
 
@@ -143,17 +144,18 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="17dp"
+                android:layout_height="20dp"
                 android:fontFamily="@font/poppins_regular"
                 android:text="Login as a police officer"
-                android:textSize="12sp" />
+                android:textSize="14sp" />
             <TextView
+                android:id="@+id/topologin"
                 android:layout_width="wrap_content"
-                android:layout_height="17dp"
+                android:layout_height="20dp"
                 android:textColor="@color/pal3"
                 android:fontFamily="@font/poppins_regular"
                 android:text=" Here!"
-                android:textSize="12sp" />
+                android:textSize="14sp" />
 
         </LinearLayout>
 

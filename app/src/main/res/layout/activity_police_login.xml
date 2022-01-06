@@ -46,7 +46,7 @@
             android:id="@+id/pin"
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
             android:layout_width="327dp"
-            android:layout_height="50dp"
+            android:layout_height="60dp"
             android:layout_marginTop="35dp"
             android:fontFamily="@font/poppins_regular"
             app:boxCornerRadiusBottomEnd="12dp"
@@ -89,17 +89,18 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="17dp"
+                android:layout_height="20dp"
                 android:fontFamily="@font/poppins_regular"
                 android:text="Not a police officer?"
-                android:textSize="12sp" />
+                android:textSize="14sp" />
             <TextView
+                android:id="@+id/potologin"
                 android:layout_width="wrap_content"
-                android:layout_height="17dp"
+                android:layout_height="20dp"
                 android:textColor="@color/pal3"
                 android:fontFamily="@font/poppins_regular"
                 android:text=" Login here!"
-                android:textSize="12sp" />
+                android:textSize="14sp" />
         </LinearLayout>
 
         <com.wang.avi.AVLoadingIndicatorView

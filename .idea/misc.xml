@@ -5,10 +5,17 @@
       <map>
         <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/drawable/button_primary.xml" value="1.542857142857143" />
         <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/drawable/button_secondary.xml" value="0.2640625" />
+        <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/drawable/onboard_active.xml" value="0.2640625" />
+        <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/drawable/onboard_background.xml" value="0.2640625" />
+        <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/drawable/onboard_inactive.xml" value="0.2640625" />
         <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/drawable/welcome_bg.xml" value="0.2640625" />
         <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/layout/activity_login.xml" value="0.24375" />
         <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/layout/activity_main.xml" value="0.1171875" />
+        <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/layout/activity_onboard1.xml" value="0.264" />
+        <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/layout/activity_onboard2.xml" value="0.2265625" />
+        <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/layout/activity_onboard3.xml" value="0.24375" />
         <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/layout/activity_police_login.xml" value="0.24375" />
+        <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/layout/activity_profile.xml" value="0.24375" />
         <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/layout/activity_signin_signup.xml" value="0.264" />
         <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/layout/activity_signup.xml" value="0.24375" />
         <entry key="..\:/Users/hopef/Pictures/crimereport/app/src/main/res/layout/activity_splash_screen.xml" value="0.2265625" />

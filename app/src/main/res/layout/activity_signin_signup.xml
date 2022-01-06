@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:id="@+id/theview"
     android:orientation="vertical"
     tools:context=".signin_signup">
 
@@ -90,7 +91,7 @@
             android:layout_marginTop="30dp">
 
             <Button
-                android:id="@+id/sigin"
+                android:id="@+id/login"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/button_secondary"
