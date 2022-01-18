@@ -14,10 +14,11 @@
         android:layout_gravity="center"
         android:background="@drawable/onboard_background"
         android:layout_marginTop="50dp">
+
         <ImageView
             android:layout_width="match_parent"
-            android:src="@drawable/location_onboard"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent"
+            android:src="@drawable/location_onboard" />
 
     </RelativeLayout>
     <RelativeLayout
@@ -48,10 +49,10 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:fontFamily="@font/poppins_regular"
-            android:textSize="16sp"
-            android:textStyle="normal"
             android:text="Record and send audio with current geolocation during an emergency with ease."
-            android:textAlignment="center"/>
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="normal" />
 
     </RelativeLayout>
     <LinearLayout
