@@ -22,8 +22,7 @@
 
 A mobile application to report criminal activities and to ask for help during emergencies.
 
-<img src="https://user-images.githubusercontent.com/38086894/133303339-914bf86b-fbff-4e49-93ce-cebe1aba9a12.png" width="250" height="500">  <img src="https://user-images.githubusercontent.com/38086894/133303618-f4f315d7-8807-4a17-87eb-d81ee8a1b0ef.png" width="250" height="500">  <img src="https://user-images.githubusercontent.com/38086894/133303929-6016d5ad-3cbd-42f6-b176-b7343f0e29af.png" width="250" height="500">  <img src="https://user-images.githubusercontent.com/38086894/133304239-704e39e8-6839-4642-8ee7-ff3f3171fbfd.png" width="250" height="500">  <img src="https://user-images.githubusercontent.com/38086894/133304256-3827a75c-7c87-46bf-91ef-d386b7f8a72e.png" width="250" height="500">  <img src="https://user-images.githubusercontent.com/38086894/158909316-81a7064e-ac7a-4834-940b-58fd6bbd3354.png" width="250" height="500">
-
+<img src="https://user-images.githubusercontent.com/38086894/158919924-3b26c879-0937-4eba-af6f-08f99671b27d.png" width="250" height="500">  <img src="https://user-images.githubusercontent.com/38086894/158919926-b8415c73-f10c-4509-bf5f-6701adb64cda.png" width="250" height="500">  <img src="https://user-images.githubusercontent.com/38086894/158919931-a6d69ec9-f19b-4c63-a941-390a2c686cc7.png" width="250" height="500">  <img src="https://user-images.githubusercontent.com/38086894/158919933-260f2d9b-44d2-4e78-9d04-7aa75be23f53.png" width="250" height="500">  <img src="https://user-images.githubusercontent.com/38086894/158919958-fb8b49fd-3ad5-4118-a8de-754ac0a2741f.png" width="250" height="500">  <img 
 
 
 
