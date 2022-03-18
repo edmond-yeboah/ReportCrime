@@ -42,14 +42,14 @@ This android mobile application was built with the following programming languag
 
 _To get a local copy up and running on your machine, follow these simple steps._
 
-1. Get a free PayStack API Key at [https://paystack.com](https://paystack.com)
+1. Get a free Google Maps API Key at [https://paystack.com](https://paystack.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/mangorepublic/GymApp.git
+   git clone https://github.com/mangorepublic/ReportCrime.git
    ```
 3. Enter your API in `gradle.properties`
    ```sh
-   PSTK_PUBLIC_KEY = 'ENTER YOUR API KEY';
+   API_KEY = 'ENTER YOUR API KEY';
    ```
 
 
@@ -81,7 +81,7 @@ limitations under the License.
 
 Edmond Yeboah - hopefuledi@gmail.com
 
-Project Link: [https://github.com/mangorepublic/GymApp](https://github.com/mangorepublic/GymApp.git)
+Project Link: [https://github.com/mangorepublic/ReportCrime](https://github.com/mangorepublic/ReportCrime.git)
 
 
 
