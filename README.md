@@ -35,14 +35,18 @@ This android mobile application was built with the following programming languag
 * [Material UI](https://material.io)
 * [Iconscout](https://iconscout.com)
 * [AVLoading animation](https://github.com/HarlonWang/AVLoadingIndicatorView.git)
-* [Paystack](https://paystack.com)
+* [Glide](https://github.com/bumptech/glide.git)
+* [Lottiefiles](https://lottiefiles.com)
+* [Google Maps](https://developers.google.com/maps/documentation/android-sdk/overview)
+* [Dexter](https://github.com/Karumi/Dexter.git)
+* [Exoplayer](https://exoplayer.dev)
 
 
 ## Installation
 
 _To get a local copy up and running on your machine, follow these simple steps._
 
-1. Get a free Google Maps API Key at [https://paystack.com](https://paystack.com)
+1. Get a free Google Maps API Key at [https://developers.google.com/maps](https://developers.google.com/maps/documentation/android-sdk/overview)
 2. Clone the repo
    ```sh
    git clone https://github.com/mangorepublic/ReportCrime.git
